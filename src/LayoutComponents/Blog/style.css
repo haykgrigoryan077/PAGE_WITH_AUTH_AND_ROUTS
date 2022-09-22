@@ -1,0 +1,26 @@
+.blog {
+    width: 500px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 2px solid orange;
+    margin-left: 300px;
+    margin-bottom: 20px;
+    border-radius: 25px;
+    align-items: center;
+}
+
+.blogPageWrapper {
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+.image {
+    width: 230px;
+    height: 230px;
+    border-radius: 50%;
+}
